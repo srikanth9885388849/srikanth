@@ -9,6 +9,7 @@ void display()
       System.out.println("eligoble for vote");
     }
    System.out.println("the age is:"+age);
+ System.out.println("the age is:"+age);
 }
 }
 class mpcs1
